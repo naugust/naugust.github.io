@@ -1,0 +1,107 @@
+@charset "utf-8";
+.navigation-header a:hover {
+	background-color: #63D1E8;
+}
+.mynav a:hover {
+	background-color: #D53A3D;
+}
+#cycle-ctn{
+	display: block;
+	width: 100%;
+	border-top: 4px solid rgb(81,82,90);
+	overflow: hidden;
+}
+ #cycle-ctn > .cycle-slideshow{
+	display: block;
+	overflow: hidden;
+	z-index: 1;
+}
+.mybanner > .h1 {
+	color: #08E07F;
+}
+
+.cycle-slideshow > img{
+	width: 100%;
+}
+.social-app {
+	width: 100px;
+	height: 100px;
+}
+#facebook-social {
+	width: 100px;
+}
+#facebook-social:hover {
+	background-color: #8E1C1E;
+}
+.social-nav {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	list-style-type: none;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.social-nav li a {
+	color: #fff;
+	border-top: 1px solid rgba(255,255,255,0.10);
+	display: block;
+	float: left;
+	line-height: 90%;
+	font-family: abril-fatface;
+	font-size: 5em;
+	padding-top: .2em;
+	padding-bottom: .15em;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+	width: 100px;
+	margin-left: 5%;
+	margin-right: 5%;
+	border-bottom: 1px solid rgba(255,255,255,0.10);
+}
+.social-nav li a:hover {
+	background-color: #BC2B2D;
+	border-radius: 30px;
+}
+
+
+.mybanner {
+	background-color: #151111;
+	padding-top: 30px;
+}
+#social-text {
+	color: #1DB2D1;
+	text-align: center;
+	text-transform: uppercase;
+	padding-bottom: 10px;
+	font-family: fredericka-the-great;
+	font-style: normal;
+	font-weight: 400;
+}
+.spacer {
+	height: 50px;
+	border-color: #F5F1D8;
+	background-color: #CCCCCC;
+}
+header {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#facebook:hover {
+	background-color: #3B579D;
+}
+#twitter:hover {
+	background-color: #58CCFF;
+}
+#linkedin:hover {
+	background-color: #1B6CA1;
+}
+#instagram:hover {
+	background-color: #8C644B;
+}
+#github:hover {
+	background-color: #9D9D9D;
+}
