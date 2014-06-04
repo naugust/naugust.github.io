@@ -43,7 +43,7 @@
 }
 
 .social-nav li a {
-	color: #fff;
+	color: rgba(255,255,255,0.10);
 	border-top: 1px solid rgba(255,255,255,0.10);
 	display: block;
 	float: left;
@@ -63,6 +63,7 @@
 .social-nav li a:hover {
 	background-color: #BC2B2D;
 	border-radius: 30px;
+	color: #fff;
 }
 
 
